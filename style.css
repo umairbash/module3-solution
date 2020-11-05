@@ -1,0 +1,38 @@
+body {
+  font-size: 16px;
+  /* background-color: #61122f; */
+  color: rgb(3, 3, 3);
+}
+
+/** HEADER **/
+
+#header-nav {
+  /* background-color: #f6b319; */
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 20px;
+}
+
+ul{
+  width: 100vw;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+ul li a {
+  text-align: center;
+}
+/* .navbar-collapse ul{
+  background-color: aqua;
+} */
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.text-center{
+  margin-bottom: 40px;
+}
+
+.col-xl-12{
+  background-color: rgb(177, 199, 221);
+}
+
